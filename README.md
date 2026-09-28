@@ -1,4 +1,4 @@
-# Calender_Agent (Agent_Share)
+# calendar-agent
 
 Agent_Share automates the addition of IPO events to your Google Calendar, including reminders for each event.
 
@@ -6,7 +6,7 @@ Agent_Share automates the addition of IPO events to your Google Calendar, includ
 
 - Automatically adds IPO events to your calendar.
 - Provides direct links to Google Calendar events.
-- Sets reminders for IPO eavents at 9:00 AM on the start date.
+- Sets reminders for IPO events at 9:00 AM on the start date.
 
 ## Prerequisites
 
@@ -50,8 +50,8 @@ Calender_Agent/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Rishav-Upadhaya/Calender_Agent.git
-   cd Calender_Agent
+   git clone https://github.com/Rishav-Upadhaya/calendar-agent.git
+   cd calendar-agent
    ```
 
 2. **Initialize environment and install dependencies:**
